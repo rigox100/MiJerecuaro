@@ -1,0 +1,30 @@
+input.input-clean { 
+    border: none !important; 
+    background-color: white !important;  
+    color: #000000; 
+
+} 
+
+input:focus { 
+    outline: none; 
+}  
+
+a.lock{
+    pointer-events: none;
+}
+
+.img-anuncio{
+    -webkit-box-shadow: 10px 10px 19px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 19px -6px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 19px -6px rgba(0,0,0,0.75);
+  }
+
+  .frm-search{
+    background-color: white;
+    padding: 10px;
+    margin:10px;
+    border:1px solid black;
+    -webkit-box-shadow: 3px 3px 11px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 3px 3px 11px 0px rgba(0,0,0,0.75);
+box-shadow: 3px 3px 11px 0px rgba(0,0,0,0.75);
+  }
